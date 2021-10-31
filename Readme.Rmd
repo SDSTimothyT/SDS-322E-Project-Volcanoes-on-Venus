@@ -31,7 +31,7 @@ Our goal with this project is to apply the machine learning techniques that we w
 [dataset](https://archive.ics.uci.edu/ml/datasets/Volcanoes+on+Venus+-+JARtool+experiment)
 
 
-## Dateset Description
+## Dataset Description
 
 [dataset description](https://archive.ics.uci.edu/ml/machine-learning-databases/volcanoes-mld/volcanoes.data.html)
 

@@ -28,7 +28,7 @@ to determine which is the best suited for this task.
 
 [dataset](https://archive.ics.uci.edu/ml/datasets/Volcanoes+on+Venus+-+JARtool+experiment)
 
-## Dateset Description
+## Dataset Description
 
 [dataset
 description](https://archive.ics.uci.edu/ml/machine-learning-databases/volcanoes-mld/volcanoes.data.html)
