@@ -10,13 +10,12 @@ Volcanoes on Venus
 
 ## Project Description
 
-One of the most important problems for the geological analysis of Venus
-is the detection of volcanoes in its surface. The Magellan spacecraft
+As humans begin to seek understanding of the other planets in our solar system, one of the most important steps will be the geological analysis of their surfaces. Venus, the second planet from Sol, is covered with dense, sulfurous clouds which make visual survey difficult. The Magellan spacecraft
 was able to gather 30,000 images of Venus’ surface over an approximately
-four year period from 1990–1994
+four year period from 1990–1994, and began to identify the geological features, most interestingly, the detection of volcanoes on its surface.
 [<sup>1</sup>](https://archive.ics.uci.edu/ml/datasets/Volcanoes+on+Venus+-+JARtool+experiment).
-The Magellan craft used Synthetic Aperature Radar, or SAR, to pierce the dense clouds present on Venus, and efficiently map the surface of the planet. While there is a high instance of artifacting in SAR, the rapid microwave pulses take multiple slices of the same image that sharpens resolution [<sup>3</sup>](https://www2.jpl.nasa.gov/magellan/guide5.html) .
-However, it is impractical to do this classification by hand, as human
+The Magellan craft used Synthetic Aperature Radar, or SAR, to pierce the cloudcover present on Venus, and efficiently map the surface of the planet. While there is a high instance of artifacting in SAR, the rapid microwave pulses take multiple slices of the same image that sharpens resolution [<sup>3</sup>](https://www2.jpl.nasa.gov/magellan/guide5.html) .
+However, it makes classification by hand substantially more impractical, as human
 experts become fatigued after labeling only 50-100 images over a few
 days.[<sup>2</sup>](https://link.springer.com/content/pdf/10.1023/A:1007400206189.pdf)
 Hence there is a real need to automate this process.
