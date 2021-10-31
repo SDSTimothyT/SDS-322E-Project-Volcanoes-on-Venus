@@ -37,3 +37,9 @@ description](https://archive.ics.uci.edu/ml/machine-learning-databases/volcanoes
 
 [Github
 Repository](https://github.com/SDSTimothyT/SDS-322E-Project-Volcanoes-on-Venus)
+
+## References
+
+M.C. Burl, L. Asker, P. Smyth, U. Fayyad, P. Perona, L. Crumpler, and J.
+Aubele, “Learning to Recognize Volcanoes on Venus”, Machine Learning,
+(March 1998).
